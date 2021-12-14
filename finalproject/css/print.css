@@ -1,0 +1,40 @@
+*{
+	font-family: sans-serif;
+	font-size:12px;
+	color:black;
+	background-color:white;
+	text-align:left;
+	margin:0px;
+	height:auto;
+	border:none;
+	text-shadow:none;
+	font-weight:none;
+	text-decoration:none;
+	width:100%;
+	float:left;
+}
+header{
+	box-shadow:none;
+	float:left;
+}
+nav, nav ul, nav ul li{
+	text-align:left;
+	border:none;
+	float:left;
+	font-family: sans-serif;
+	font-size:12px;
+	color:black;
+}
+h1, h2, p, article, footer, cite, a, #first, #second {
+	font-weight:none;
+	text-shadow:none;
+	font-size:12pt;
+	text-align:left;
+	padding:none;
+	margin:none;
+	float:left;
+
+}
+button, h3, .icon-bar, img{
+	display:none;
+}
